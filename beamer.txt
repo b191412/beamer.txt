@@ -1,0 +1,42 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\title{\color{yellow}MY PRESENTATION}
+\author{D.BHAVANI}
+\date{29-09-2022}
+
+\usetheme{CambridgeUS}
+
+\begin{document}
+\begin{frame}
+\maketitle
+\end{frame}
+\begin{frame}{INTRODUCTION}
+\centering
+\textbf{NAME}:\textit{D.BHAVANI}\\
+\textbf{id}:B191412\\
+\textbf{class}:e1-sem2\\
+\textbf{college}:rgukt\\
+\end{frame}
+\begin{frame}{\color{red}RESULT DETAILS}
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|r|l|}
+\hline
+s.no & subject & marks\\
+\hline
+1. & maths & 21\\
+\hline
+2. & english & 23\\
+\hline
+3. & physics & 20\\
+\hline
+\end{tabular}
+\end{table}
+\end{frame}
+\begin{frame}{PICTURE}
+\centering
+\includegraphics[scale=0.1]{Screenshot from 2022-08-10 12-45-18.png}\\
+\caption{fig1:this is 1st image}
+\end{frame}
+\end{document}
